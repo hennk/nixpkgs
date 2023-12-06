@@ -30513,6 +30513,8 @@ with pkgs;
 
   auto-multiple-choice = callPackage ../applications/misc/auto-multiple-choice { };
 
+  autofirma = callPackage ../applications/office/autofirma { };
+
   autokey = callPackage ../applications/office/autokey { };
 
   autotalent = callPackage ../applications/audio/autotalent { };
